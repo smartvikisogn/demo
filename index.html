@@ -121,11 +121,30 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">International Youth Peace Conference 2017 (IYPC) <br/>Sept. 23rd- Sept. 30th 2017</h2>
+                    <h2 class="section-heading">International Youth Peace Conference 2017 (IYPC) <br/>September 30th - October 8th 2017</h2>
                     <hr class="light;">
-                    <p class="text-justify">The International Youth Peace Conference 2017 (IYPC) in collaboration with <b>United Nations Youth Associations Network</b>, host institutions <b>Sogndal University College</b>  and <b>United World College Red Cross Nordic</b>, will be arranged within 5 communities in Western Norway for participants aged 16 and above,  surrounded by the famous <b>UNESCO</b> fjords, glaciers, mountains and waterfalls as they rotate to the different districts for different workshops, in an environment that favors mutual learning, networking, sight-seeing and entertainment around this year’s theme of <b>Climate Change</b>.<br/><br/>
+                    <p class="text-justify">The International Youth Peace Conference 2017 (IYPC) in collaboration with United Nations Youth Associations Network, Nansen Environmental and Remote Sensing Center, host institutions Western Norway University of Applied Sciences and United World College Red Cross Nordic, will be arranged in Norway for participants aged 16 and above surrounded by the famous UNESCO fjords, glaciers, mountains and waterfalls. The participants will rotate between five workshops in an environment that favors mutual learning, networking, sight-seeing and entertainment around this year’s theme of <b>Climate Change</b>.<br/><br/>
+                     
+                    <div  class="text-justify" >     
+                    <p class="text-justify">
+                    
+                        <b>Statement from the organizers</b><br/>
+                        Our goal is to organize a conference that is carbon neutral. We want to achieve this by minimizing the carbon footprint and offsetting the remaining emissions. The conference’s carbon footprint will be transparently and visibly displayed at the website. <br/>
+                    </p>     
                         
-                                           <img src="img/image/home.jpg" class="img-responsive" alt="" width=100% align="middle">
+                       
+                    <a  id="displayText13" href="javascript:toggle13();">Read more ...</a>
+                        <div  class="text-justify" id="toggleText13" style="display: none">
+                            <b>Our strategy</b><br/>
+                            •	We will track emissions caused by the conference. This includes direct emissions (transports around the venues, food related emissions, waste handling and energy usage during the conference) and indirect emissions (emissions caused by travels during the preparation of the conference, transport of participants to Sogndal, accommodation of participants). <br/>
+                            •	We work on avoiding emissions from the start by designing a logistical arrangement that comes at the lowest emission costs. This means to think thoroughly about the location of workshops, social events and accommodation of speakers and participants. We prefer walking distances wherever possible. We also prioritize cooperation with local producers and service providers. We will cooperate closely with hotel owners to see where we all can improve.<br/>
+                            •	We work on avoiding waste from the start by mentally testing different logistical scenarios. This means to think well through how to provide and serve food at workshops and social events. For example, we prefer food that has been produced locally and organically. We ban the use of plastic bags, plastic plates and cutlery, we ask to minimize packaging and we will make the vegetarian option the default. We prefer recycled and re-usable material for all workshops and social events.<br/>
+                            •	We will involve participants who will arrive from different countries in the world and who themselves may want to contribute with useful ideas and suggestions. We will provide incentives to avoid flying - or at least multiple-flying - where possible. We will encourage energy- and resource saving behavior throughout the conference. For example, we hope that we can be a role model by not being online when we actually see each other face-to-face.<br/>
+                            •	We are currently seeking to cooperate with NGO to be able to offer carbon offsetting for remaining emissions through the purchase of certificates. More information will be posted, when we know more. <br/>
+                    </div>
+                    </div><br/><br/>
+                        
+                           <img src="img/image/home.jpg" class="img-responsive" alt="" width=100% align="middle">
                         <br/>
                     <p><i><b>Time and content of the program may change</b></i></p>
                 <table>
@@ -906,6 +925,18 @@ Please contact the logistics team for more information <a href="mailto:logistics
 	else {
 		ele.style.display = "block";
 		text.innerHTML = "hide";
+	}
+}
+    function toggle13() {
+	var ele = document.getElementById("toggleText13");
+	var text = document.getElementById("displayText13");
+	if(ele.style.display == "block") {
+    		ele.style.display = "none";
+		text.innerHTML = "Read more ...";
+  	}
+	else {
+		ele.style.display = "block";
+		text.innerHTML = "Hide ...";
 	}
 }
 </script>
