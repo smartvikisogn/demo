@@ -1,201 +1,201 @@
 [{
 	"value": 20,
 	"code": "nj",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1 - 20%"
 }, {
 	"value": 20,
 	"code": "ri",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 21,
 	"code": "ma",
-	"percentage": ">20"
+	"percentage": ">20%"
 }, {
 	"value": 20,
 	"code": "ct",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 15,
 	"code": "md",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "ny",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 20,
 	"code": "de",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 15,
 	"code": "fl",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "oh",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 20,
 	"code": "pa",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 15,
 	"code": "il",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "ca",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 5,
 	"code": "hi",
-	"percentage": "<5"
+	"percentage": "<5%"
 }, {
 	"value": 10,
 	"code": "va",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "mi",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "in",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "nc",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 10,
 	"code": "ga",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "tn",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 21,
 	"code": "nh",
-	"percentage": ">20"
+	"percentage": ">20%"
 }, {
 	"value": 10,
 	"code": "sc",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 10,
 	"code": "la",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "ky",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "wi",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "wa",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "al",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "mo",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "tx",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "wv",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 20,
 	"code": "vt",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 15,
 	"code": "mn",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "ms",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "ia",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "ar",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "ok",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "az",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "co",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 20,
 	"code": "me",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 15,
 	"code": "or",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 15,
 	"code": "ks",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "ut",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "ne",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "nv",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 10,
 	"code": "id",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 10,
 	"code": "nm",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 15,
 	"code": "sd",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "nd",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }, {
 	"value": 20,
 	"code": "mt",
-	"percentage": "15.1 - 20"
+	"percentage": "15.1% - 20%"
 }, {
 	"value": 15,
 	"code": "wy",
-	"percentage": "10.1 - 15"
+	"percentage": "10.1% - 15%"
 }, {
 	"value": 10,
 	"code": "ak",
-	"percentage": "5.1 - 10"
+	"percentage": "5.1% - 10%"
 }]
